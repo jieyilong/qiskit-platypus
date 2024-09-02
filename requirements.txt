@@ -2,3 +2,4 @@ plotly
 qiskit[all]
 qiskit-aer
 qiskit_algorithms
+qiskit_optimization
